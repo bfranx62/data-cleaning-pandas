@@ -1,5 +1,5 @@
 # data-cleaning-pandas
-Ironhack Week 2 Quest Project - cleaning and analyzing shark attacks data. 
+## Ironhack Week 2 Quest Project - cleaning and analyzing shark attacks data. 
 
 #### Group Members
 Hoang Le Duc, Raynard Flores, Bryan Frank, Franklin Ledesma, and Rosemary Medina-Casanova
