@@ -20,7 +20,6 @@ Python-based Shark Attack Analysis project aims to identify countries with the h
         - .strip()
         - .replace()
     - implement understanding of SQL to standardize date formatting
-        - added a month column to improve ease of access to data on shark attacks by the month 
     - deleting dataframe irrelevant variables and observations, including:
         - removing data about shark attacks that occurred on the high seas, because they are not relevant to our data
         - removing data about shark attacks that happened prior to the year 2014 as being too far out-of-date to be pertinent
