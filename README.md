@@ -26,8 +26,8 @@ Python-based Shark Attack Analysis project aims to identify countries with the h
 
 ## Exploratory Data Analysis
 - Utilized EDA techniques to analyze data, validate hypotheses, and draw actionable insights.
-        - identified top 5 countries where shark attacks are most common
-        - identified countries with highest number of fatalities
-        - examined the difference in outcomes of sharks attack (most DO NOT end in fatalities)
-        - compared top 5 countries to the rest of the world in regards to fatalities
+  - identified top 5 countries where shark attacks are most common
+  - identified countries with highest number of fatalities
+  - examined the difference in outcomes of sharks attack (most DO NOT end in fatalities)
+  - compared top 5 countries to the rest of the world in regards to fatalities
 - Created visually appealing charts and graphs using Python libraries, facilitating decision-making.
